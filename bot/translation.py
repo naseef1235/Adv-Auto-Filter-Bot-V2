@@ -5,7 +5,7 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i><b>Sorry, This Bot Can Only Be Used In @CFCHART ..!</b>
+<i><b>Sorry, This Bot is property of @MKCHANEL1</b>
 </i>"""    
     
     HELP_TEXT = """
